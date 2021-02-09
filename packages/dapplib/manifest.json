@@ -1,0 +1,14 @@
+{
+    "name": "Plasticoin",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Plasticoin",
+        "/category/asset_value_tracking/token/symbol": "PLC",
+        "/category/asset_value_tracking/token/decimals": "2",
+        "/category/asset_value_tracking/token/supply": "1000000"
+    }
+}
